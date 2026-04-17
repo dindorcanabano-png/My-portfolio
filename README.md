@@ -1,4 +1,17 @@
-# My-portfolio
-streamlit portfolio
-to run this  type streamit run App.py
-but make sure you install streamlit before you run the program
+ Dindo Portfolio
+
+This is my personal portfolio built using Streamlit.
+
+Features
+- Multi-page system (Home, About, Projects, Contact)
+- Clean UI design
+- Project showcase
+- Contact system
+
+ Tech Stack
+- Python
+- Streamlit
+
+Run Locally
+```bash
+streamlit run App.py
